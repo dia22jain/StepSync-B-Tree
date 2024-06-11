@@ -1,1 +1,2 @@
 # StepSync-B-Tree
+Our step tracking application, built using B-tree, allows users to track their daily steps, set weekly goals, create groups, and earn rewards for meeting targets. Users can add new individuals, create groups, and view leaderboards to track progress. The application facilitates group collaboration and individual achievements, promoting healthy competition and fitness goals. With functionalities like checking group achievements, generating leaderboards, and suggesting goal updates, users can stay motivated and engaged in their fitness journey.
